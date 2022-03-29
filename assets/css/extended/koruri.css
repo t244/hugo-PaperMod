@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Koruri';
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.eot');
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.eot?#iefix') format('embedded-opentype');
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.woff') format('woff'),
+         url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.ttf') format('truetype');
+    
+    /*  for fuck'n chrome  */
+    src: url(//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.woff) format('woff'); 
+}
+
+body {
+    font-family: Koruri;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Koruri;
+}
+
+.navbar-custom {
+    font-family: Koruri;
+}
+
+.intro-header .site-heading .subheading, .intro-header .page-heading .subheading {
+    font-family: Koruri;
+}
+
+.intro-header .post-heading .subheading {
+    font-family: Koruri;
+}
+
+.btn {
+    font-family: Koruri;
+}
+
+.pager li>a, .pager li>span {
+    font-family: Koruri;
+}
+
+.one-tag-list .tag-text {
+    font-family: Koruri;
+}
